@@ -1,3 +1,4 @@
+
 MCP Task Manager (Python)
 📌 Overview
 
@@ -94,7 +95,8 @@ Communication via input/output streams
 No HTTP server required
 
 👉 Benefits:
+<img width="992" height="552" alt="1" src="https://github.com/user-attachments/assets/2963f09a-7146-4dc5-99be-0eede671ac66" />
+No port conflicts<img width="992" height="785" alt="2" src="https://github.com/user-attachments/assets/8b6a2cc3-6aab-4f08-8a31-b0c21ae648d9" />
 
-No port conflicts
 No firewall issues
 Works seamlessly with local AI tools
